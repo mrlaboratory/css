@@ -1,0 +1,22 @@
+
+:root {
+  --mr: coral;  
+  
+  
+  
+}
+
+#div1 {
+  background-color: var(--mr);
+  padding: 5px;  
+}
+
+#div2 {
+  background-color: var(--mr);
+  padding: 5px;
+}
+
+#div3 {
+  background-color: var(--mr);
+  padding: 5px;
+}
